@@ -1,1 +1,0 @@
-This directory contains two folders, namely event and status. The folder of event consists of event data of each virtual machine on cloud platform of SG-COS. Another folder of status consists of event data of each virtual machine of SG-COS.
